@@ -11,13 +11,9 @@ Move It ! Projeto criado na Next Level Week #4 Ministrado pela Rocketseat | Tril
   <a href="#man-Autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-<img src="./Github/CompleteMoveit.gif"/>
-
-<img src="./Github/StopMoveit.gif" />
+<img src="./Github/StartMoveit.gif" width = "45%;"/><span> </span><img src="./Github/StopMoveit.gif" width = "45%;"/>
 <br/>
-<img src="./Github/CompleteMoveit.gif"/>
-
-<img src="./Github/FailedMoveit.gif" />
+<img src="./Github/CompleteMoveit.gif" width = "45%;"/><span> </span><img src="./Github/FailedMoveit.gif"  width = "45%;" />
 
 ## :page_facing_up: Descrição
 
@@ -27,10 +23,14 @@ O Move.it é um app que usa a técnica de Pomodoro, esse app faz com que pessoas
 
 Este projeto foi desenvolvido com as seguintes tecnologias
 
-- [Next.js](https://nextjs.org/)
-- [React.js](https://pt-br.reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [StyledComponents](https://styled-components.com/)
+- [![image](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+- [![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://pt-br.reactjs.org/)
+- [![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+- [![image](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/)
+
+
+https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white
+
 
 ## :clipboard: Funcionalidades
 
