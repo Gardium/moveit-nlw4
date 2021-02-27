@@ -1,5 +1,7 @@
 <h1 align="center">
-Move It ! Projeto criado na Next Level Week #4 Ministrado pela Rocketseat | Trilha React	  <img width="400px" src="./.github/images/logo.svg" />
+Move It ! Projeto criado na Next Level Week #4 Ministrado pela Rocketseat | Trilha React	 
+  <br/>
+  <img width="400px" src="./public/logo-full.svg" />
   <br />
 
 </h1>
@@ -11,10 +13,14 @@ Move It ! Projeto criado na Next Level Week #4 Ministrado pela Rocketseat | Tril
   <a href="#man-Autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
+
+<div align="center">
+            
 <img src="./Github/StartMoveit.gif" width = "45%;"/><span> </span><img src="./Github/StopMoveit.gif" width = "45%;"/>
 <br/>
 <img src="./Github/CompleteMoveit.gif" width = "45%;"/><span> </span><img src="./Github/FailedMoveit.gif"  width = "45%;" />
-
+                                                                                                                         
+</div>
 ## :page_facing_up: Descrição
 
 O Move.it é um app que usa a técnica de Pomodoro, esse app faz com que pessoas que passa muito tempo na frente do computador realizar exercícios físicos.
@@ -51,7 +57,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ```bash
 # Clone este repositório.
-$ git clone https://github.com/alexandredev3/moveit-nlw4.git
+$ git clone https://github.com/gardium/moveit-nlw4.git
 # Vá para a pasta moveit-nlw4
 $ cd moveit-nlw4
 # Instale as dependências
