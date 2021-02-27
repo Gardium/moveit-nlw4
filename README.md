@@ -21,6 +21,7 @@ Move It ! Projeto criado na Next Level Week #4 Ministrado pela Rocketseat | Tril
 <img src="./Github/CompleteMoveit.gif" width = "45%;"/><span> </span><img src="./Github/FailedMoveit.gif"  width = "45%;" />
                                                                                                                          
 </div>
+
 ## :page_facing_up: Descrição
 
 O Move.it é um app que usa a técnica de Pomodoro, esse app faz com que pessoas que passa muito tempo na frente do computador realizar exercícios físicos.
@@ -35,7 +36,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias
 - [![image](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/)
 
 
-https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white
 
 
 ## :clipboard: Funcionalidades
