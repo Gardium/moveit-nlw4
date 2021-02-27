@@ -11,13 +11,13 @@ Move It ! Projeto criado na Next Level Week #4 Ministrado pela Rocketseat | Tril
   <a href="#man-Autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-<img src="./.github/StartMoveit.gif"/>
+<img src="./github/StartMoveit.gif"/>
 
-<img src="./.github/StopMoveit.gif" />
+<img src="./github/StopMoveit.gif" />
 <br/>
-<img src="./.github/CompleteMoveit.gif"/>
+<img src="./github/CompleteMoveit.gif"/>
 
-<img src="./.github/FailedMoveit.gif" />
+<img src="./github/FailedMoveit.gif" />
 
 ## :page_facing_up: Descrição
 
