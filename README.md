@@ -7,7 +7,7 @@ Move It ! Projeto criado na Next Level Week #4 Ministrado pela Rocketseat | Tril
 </h1>
 <p align="center">
   <a href="#page_facing_up-descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#sparkles-Teste você mesmo">Teste você mesmo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#sparkles-preview">Teste você mesmo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#clipboard-Funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#closed_book-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -30,9 +30,9 @@ Move It ! Projeto criado na Next Level Week #4 Ministrado pela Rocketseat | Tril
 O Move.it é um app que usa a técnica de Pomodoro, esse app faz com que pessoas que passa muito tempo na frente do computador realizar exercícios físicos.
 
 
-## :sparkles: Teste você mesmo
+## :sparkles: Preview
 
-[Clique aqui para usar o MoveIt](https://moveit-gardium.vercel.app/)
+[Teste você mesmo o Moveit](https://moveit-gardium.vercel.app/)
 
 ## 🛠 Tecnologias
 
